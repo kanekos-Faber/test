@@ -7,9 +7,29 @@ assignees: kanekos-Faber
 
 ---
 
-# Summary
-# Who worried? (Manager? In-company member? Client?)
-# Which page on Mieruca? (Please tell me the URL)
-# What do you want to know?
-# Which priority? (Low < Medium < High)
-# Option
+## Summary
+<!-- Write the Summary -->
+
+## Who worried?
+<!-- Change from [ ] to [x] -->
+- [ ] Manager
+- [ ] In-company member
+- [ ] Client
+
+## Which page's which function on Mieruca?
+- URL
+<!-- Paste the URL -->
+- Image
+<!-- Upload the image to know the function -->
+
+## What do you want to know?
+<!-- Write the details of research -->
+
+## Which priority? (Low < Medium < High)
+<!-- Change from [ ] to [x] -->
+- [ ] High
+- [ ] Medium
+- [ ] Low
+
+## Option
+<!-- Write the oprional information -->
