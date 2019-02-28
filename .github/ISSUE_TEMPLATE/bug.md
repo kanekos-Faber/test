@@ -1,8 +1,8 @@
 ---
-name: Make issue of the bug
+name: bug
 about: To report the bug
 title: "[Bug]"
-labels: 
+labels: ''
 assignees: kanekos-Faber
 
 ---

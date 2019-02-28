@@ -1,5 +1,5 @@
 ---
-name: Research issue template
+name: research
 about: To research
 title: "[Research]"
 labels: question
