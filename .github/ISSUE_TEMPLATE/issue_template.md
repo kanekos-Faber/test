@@ -1,4 +1,0 @@
-  ---
-title: 'Research'
-labels: Research
-  ---
