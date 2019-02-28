@@ -4,6 +4,7 @@ about: To report the bug
 title: "[Bug]"
 labels: ''
 assignees: kanekos-Faber
+---
 
 ## Summary
 <!-- Write the Summary -->
@@ -43,5 +44,4 @@ assignees: kanekos-Faber
 <!-- Write the oprional information -->
 
 
----
 
