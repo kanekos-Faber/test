@@ -5,8 +5,6 @@ title: "[Bug]"
 labels: ''
 assignees: kanekos-Faber
 
----
-
 ## Summary
 <!-- Write the Summary -->
 
@@ -43,3 +41,7 @@ assignees: kanekos-Faber
 
 ## Option
 <!-- Write the oprional information -->
+
+
+---
+
