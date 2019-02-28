@@ -1,10 +1,9 @@
-<!-- RESEARCH TASK TEMPLATE -->
 ---
 name: Research request
 about: Create a report to research
 
 ---
-
+<!-- RESEARCH TASK TEMPLATE -->
 # Summary
 # Who worried? (Manager? In-company member? Client?)
 # Which page on Mieruca? (Please tell me the URL)
