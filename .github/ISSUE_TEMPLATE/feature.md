@@ -1,8 +1,8 @@
 ---
-name: Make issue of new features
+name: feature
 about: To know the requirements of the new feature
 title: "[NewFeature]"
-labels: 
+labels: ''
 assignees: kanekos-Faber
 
 ---
