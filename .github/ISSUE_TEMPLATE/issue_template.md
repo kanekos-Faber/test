@@ -1,7 +1,7 @@
   ---
 title: 'Research'
 labels: Research
-assignees: kanekos-Faber
+
   ---
 
 # Summary
