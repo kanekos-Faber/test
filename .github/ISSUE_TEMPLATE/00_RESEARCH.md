@@ -10,22 +10,22 @@ assignees: kanekos-Faber
 ## Summary
 <!-- Write the Summary -->
 
-## Who worried?
+## Target
 <!-- Change from [ ] to [x] -->
 - [ ] Manager
 - [ ] In-company member
 - [ ] Client
 
-## Which page's which function on Mieruca?
+## Page on Mieruca
 - URL
 <!-- Paste the URL -->
 - Image
 <!-- Upload the image to know the function -->
 
-## What do you want to know?
+## Research Details
 <!-- Write the details of research -->
 
-## Which priority? (Low < Medium < High)
+## Priority (Low < Medium < High)
 <!-- Change from [ ] to [x] -->
 - [ ] High
 - [ ] Medium
