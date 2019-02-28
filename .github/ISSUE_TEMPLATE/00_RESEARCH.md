@@ -1,8 +1,8 @@
----
-name: Research request
-about: Create a report to research
-
----
+  ---
+title: 'Research'
+labels: Research
+assignees: kanekos-Faber
+  ---
 <!-- RESEARCH TASK TEMPLATE -->
 # Summary
 # Who worried? (Manager? In-company member? Client?)
